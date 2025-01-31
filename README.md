@@ -1,4 +1,4 @@
 # Rahul_31jan
-This is my Seconf=d Repository
+This is my Second Repository.
 Author - Rahul Makadiya
 
